@@ -1,4 +1,4 @@
 username:pepinidis
-email:pepis@gmail.gr
-password:123pp
+email:pepinidis@gmail.gr
+password:1234pp
 
