@@ -1,4 +1,4 @@
-username:big guy
-email:pepinidis@gmail.gr
+username:pepinidis
+email:sixseven@gmail.gr
 password:1234pp
 
