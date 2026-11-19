@@ -1,4 +1,4 @@
 username:pepinidis
-email:sixseven@gmail.gr
+email:lmao@gmail.gr
 password:1234pp
 
